@@ -69,7 +69,7 @@ h2{
     border-radius: 8px;
   
   }
-  .button:hover {
+/*   .button:hover {
     width: 200px;
     font-size: 16px;
     font-weight: 600;
@@ -86,4 +86,4 @@ h2{
     -o-transition: all .4s ease-in-out;
     -webkit-transition: all .4s ease-in-out;
     transition: all .4s ease-in-out;
-}
+} */
